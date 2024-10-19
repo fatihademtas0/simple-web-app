@@ -4046,11 +4046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\MVC Course\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih\\source\\repos\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\Fatih\\Desktop\\MVC Course\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\Fatih\\source\\repos\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih\\Desktop\\MVC Course\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\Fatih\\source\\repos\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
