@@ -7,6 +7,12 @@ namespace MyApp.Data
     {
         public MyAppContext(DbContextOptions<MyAppContext> options ) : base(options) { }
 
-        public DbSet<Item> Items { get; set; }
+		protected override void OnModelCreating(ModelBuilder modelBuilder)
+		{
+			base.OnModelCreating(modelBuilder);
+		}
+
+		public DbSet<Item> Items { get; set; }
+        public DbSet<SerialNumber> SerialNumbers { get; set; }
     }
 }
